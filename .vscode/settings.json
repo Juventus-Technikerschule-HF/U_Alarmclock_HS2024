@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "eduboard2_lcd.h": "c",
+        "pngle.h": "c",
+        "bmpfile.h": "c",
+        "lcddriver.h": "c"
+    }
+}
